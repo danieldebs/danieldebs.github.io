@@ -1,7 +1,7 @@
 
 # About myself
 
-<link href="css/index.css" rel="stylesheet">
+<link href="https://danieldebs.github.io/css/index.css" rel="stylesheet">
 
 I am a Cloud Architect, leaving in Paris. 
 
