@@ -1,9 +1,9 @@
 
 # About myself
 
-<link rel="stylesheet" href="index.css">
+<link href="css/index.css" rel="stylesheet">
 
-I am a Cloud Architect, leaving in Paris. Before joining Microsoft, I’ve been a developer and trainer for 7 years, mostly on Microsoft .NET, Web and cloud technologies.
+I am a Cloud Architect, leaving in Paris. 
 
 I am currently part of  build and run cloud native applications on Microsoft Azure and AWS. My focuses are cloud architecture best practices, DevOps and Kubernetes.
 
