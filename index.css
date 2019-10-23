@@ -45,7 +45,7 @@
 		}
 
 	.container1 {
-		min-width: 700px;
+		min-width: 800px;  /*initialement 700 */
 	}
 	
 	.visible {
