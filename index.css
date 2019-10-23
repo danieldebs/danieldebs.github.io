@@ -18,7 +18,7 @@
 }
 
 #animation1 {
-	  margin-top: 0; padding-left: 105px;  /* 105 initialement */
+	  margin-top: 0; padding-left: 10px;  /* 105 initialement */
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
 	  animation: 6s linear 0s normal none infinite change;
