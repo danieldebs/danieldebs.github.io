@@ -26,23 +26,23 @@
 	  -moz-animation: 6s linear 0s normal none infinite change;
 	  -o-animation: 6s linear 0s normal none infinite change;
 	}
-
+/*
 	.content:before {
 			  content: '['; position: relative;
 			  font-weight: 100;
 			  color: white;
 			  left: -214px; line-height: 40px;  /* -114 initialement */
-			  top: 40px;
+			 /* top: 40px;
 			  font-family: Roboto, sans-serif;
-		}
+		} 
 		.content:after {
 			  content: ']'; position: relative;
 			  font-weight: 100;
 			  color: white;
 			  right: -210px; line-height: 40px;   /* -110 initialement */
-			  top:40px;
+			/*  top:40px;
 			  font-family: Roboto, sans-serif;
-		}
+		}*/
 
 	.container1 {
 		min-width: 800px;  /*initialement 700 */
