@@ -215,7 +215,7 @@
 		    border: 1px solid white;
 		    border-radius: 140px;
 		    background-image: url('daniel.jpg');
-		    background-size: 300px;   
+		    background-size: 100px;  /*initialement300// 
 		    background-repeat: no-repeat;
 		    background-position: 50%;
 		}
@@ -347,7 +347,7 @@
 			    linear-gradient(
 			      rgba(0, 0, 0, 0.55), 
 			      rgba(0, 0, 0, 0.55)
-			    ), url("Seattle.JPG");
+			    ), url("PersonalWebsitePhoto.JPG");
 			height:800px;
 			width:100%;
 			background-size:cover;
