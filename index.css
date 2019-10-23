@@ -69,7 +69,7 @@
 			position:relative;*/
 			/*left: 20px;*/
 		}
-
+/*
 		@media only screen and (max-width: 900px)
 		{
 			
@@ -78,10 +78,11 @@
 					 float: right;
 					 position: relative;
 					 left: -50%; /* or right 50% */
-					 text-align: left;
+					/* text-align: left;
 				}
 			
 		}
+*/
 
 		/*#imagePos {
 			float: left;
