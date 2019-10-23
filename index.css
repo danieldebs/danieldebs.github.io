@@ -210,8 +210,8 @@
 			}
 			
 		.myImage {
-			width: 115px;
-		    height: 115px;
+			width: 200px;  /*initialement230 */
+		    height: 200px;
 		    border: 1px solid white;
 		    border-radius: 140px;
 		    background-image: url('daniel.jpg');
