@@ -18,7 +18,7 @@
 }
 
 #animation1 {
-	  margin-top: 0; padding-left: 105px;
+	  margin-top: 0; padding-left: 55px;  /* 105 initialement */
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
 	  animation: 6s linear 0s normal none infinite change;
@@ -31,7 +31,7 @@
 			  content: '['; position: relative;
 			  font-weight: 100;
 			  color: white;
-			  left: -214px; line-height: 40px;  /* -114 initialement */
+			  left: -114px; line-height: 40px;  /* -114 initialement */
 			  top: 40px;
 			  font-family: Roboto, sans-serif;
 		}
