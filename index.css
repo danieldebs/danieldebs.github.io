@@ -457,6 +457,7 @@
 		
 		#wrap .col {
 			float:left;
+			text-align: justify;
 		}
 		
 		.center{
